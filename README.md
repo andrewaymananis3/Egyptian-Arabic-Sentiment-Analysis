@@ -1,4 +1,5 @@
 # Egyptian Arabic Sentiment Analysis
+🔗 **Live Demo:** https://huggingface.co/spaces/andrewaymananis3/egyptian-arabic-sentiment
 
 A natural language processing project that analyzes sentiment in **Egyptian dialect Arabic** restaurant reviews using pretrained transformer models, with an interactive web app.
 
